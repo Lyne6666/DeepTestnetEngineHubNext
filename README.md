@@ -1,2 +1,1 @@
-# DeepTestnetEngineHubNext
-Advanced DeepTestnetEngineHubNext project
+.
